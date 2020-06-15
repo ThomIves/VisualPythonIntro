@@ -1,31 +1,25 @@
-# Gradient Descent
-Gradient Descent Using Pure Python Without NumPy or SciPy
+# Visual Python Introduction
+An introduction to visual python for visualizing elements of predictive modeling in general
 
-![Gradient Descent Logo](https://github.com/ThomIves/GradientDescentPurePy/blob/master/Gradient_Descent_Pure_Py_Logo.png)
-> A progressive guide on how to develop gradient descent code for a given model using python.
+![Visual Python Intro Logo](https://github.com/ThomIves/VisualPythonIntro/blob/master/vp_anima.gif)
+> An initial example of how Visual Python can be used to assist in predictive modeling efforts in general.
 
-This code accompanies the blog post [Gradient Descent Using Pure Python without Numpy or Scipy](https://integratedmlai.com/gradient-descent-using-pure-python-without-numpy-or-scipy/).
+This code accompanies the blog post [Visual Python: Versatile Programmatic Module For 3D Animations](https://integratedmlai.com/visual-python-intro/).
 
 ## Getting started
 
-1. This code accompanies the blog post [Gradient Descent Using Pure Python without Numpy or Scipy](https://integratedmlai.com/gradient-descent-using-pure-python-without-numpy-or-scipy/), and it is best to walk through this code from there.
-2. GradDesc1.py is some VERY simple code to show how to solve for line parameters using basic gradient descent techniques.
-3. GradDesc2.py takes the next step from GradDesc1.py and divides the necessary tasks into functions.
-4. Gradient_Descent_Solver.py holds the creation of a class structure for what was developed in GradDesc2.py.
-5. Testing_#.py are test files that import the class from Gradient_Descent_Solver.py.
-The most interesting of these files is Testing_4.py, which uses the class to accomplish a gradient descent solution on some reasonably noisy fake training data.
+1. This code accompanies the blog post [Visual Python: Versatile Programmatic Module For 3D Animations](https://integratedmlai.com/visual-python-intro/), and it is best to walk through this code from there.
+2. Pendulumns.py contains all the code that you will need.
+3. The remaining files present simply support the blog post.
+4. Visual Python can best be learned from [The Visual Python Web Page](https://vpython.org/)
 
 ## Deploying / Publishing
 
-I would appreciate it, as you share your work leveraged from this set of scripts, if you would please keep a referral back to my [github](https://github.com/ThomIves/GradientDescentPurePy) repo. Thanks! I'd do the same for you. :-)
-
-## Contributing
-
-I am open to share the development and improvements of this with others, but it has been solo up until now. Let me know if you'd like to contribute.
+I would appreciate it, as you share your work leveraged from this script, if you would please keep a referral back to my [github](https://github.com/ThomIves/VisualPythonIntro) repo or [My Blog Post](https://integratedmlai.com/visual-python-intro/) for this work. Thanks! I'd do the same for you. :-)
 
 ## Links
 
-This work came from [My GitHub Repo](https://github.com/ThomIves/GradientDescentPurePy) originally.
+This work came from [My GitHub Repo](https://github.com/ThomIves/VisualPythonIntro) originally.
 
 ## Licensing
 
