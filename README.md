@@ -10,7 +10,7 @@ This code accompanies the blog post [Visual Python: Versatile Programmatic Modul
 
 1. This code accompanies the blog post [Visual Python: Versatile Programmatic Module For 3D Animations](https://integratedmlai.com/visual-python-intro/), and it is best to walk through this code from there.
 2. Pendulumns.py contains all the code that you will need.
-3. The remaining files present simply support the blog post.
+3. The remaining files present simply support the blog post. For example, there are some visual python primatives to practice with. There is a video file that was a screen capture of a Visual Python animation of the 20 pendulums in Pedulumns.py, etc.
 4. Visual Python can best be learned from [The Visual Python Web Page](https://vpython.org/)
 
 ## Deploying / Publishing
